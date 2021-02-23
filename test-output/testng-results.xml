@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16159" started-at="2021-02-23T03:12:37Z" finished-at="2021-02-23T03:12:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16159" started-at="2021-02-23T03:12:37Z" finished-at="2021-02-23T03:12:53Z">
+      <class name="Account_Page.Account_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Account_Page.Account_Test@27abb83e]" name="beforeMethod" is-config="true" duration-ms="9629" started-at="2021-02-22T22:12:37Z" finished-at="2021-02-22T22:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginwithemail()[pri:0, instance:Account_Page.Account_Test@27abb83e]" name="loginwithemail" duration-ms="6506" started-at="2021-02-22T22:12:47Z" finished-at="2021-02-22T22:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithemail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Account_Page.Account_Test@27abb83e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-02-22T22:12:53Z" finished-at="2021-02-22T22:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Account_Page.Account_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
